@@ -5,13 +5,8 @@ Terdapat data performance para siswa di 2 sekolah di Portugis yaitu Gabriel Pere
 
 ## Objektif Analisis
 1. Variabel manakah pada data yang mempunyai pengaruh terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-2. Apakah variabel age mempunyai hubungan yang kuat terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-3. Apakah variabel studytime mempunyai hubungan yang kuat terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-4. Apakah variabel failures mempunyai hubungan yang kuat terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-5. Apakah variabel freetime mempunyai hubungan yang kuat terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-6. Apakah variabel G1 mempunyai hubungan yang kuat terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-7. Apakah variabel G2 mempunyai hubungan yang kuat terhadap probabilitas seorang siswa mendapatkan nilai yang tinggi?
-8. Bagaimana kesimpulan akhirnya ? dan rekomendasi apakah yang dapat dilakukan?
+2. Bagaimana prediksi nilai G3 dari variabel prediktor dengan model regresi?
+3. Bagaimana kesimpulan akhirnya ? dan rekomendasi apakah yang dapat dilakukan?
 
 ## Hasil Analisa
 [Medium](https://medium.com/@septiawulandaris11/statistics-for-business-student-grade-prediction-258ff7c4eae7)
